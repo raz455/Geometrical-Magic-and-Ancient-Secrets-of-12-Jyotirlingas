@@ -88,13 +88,13 @@ This project is a Python-based interactive map visualizing the **12 sacred Jyoti
    pip install -r requirements.txt
    ```
 
-3. Run the script:
+3. Run the command:
 
    ```bash
-   python spiral_map.py
+   jupyter notebook Geometrical_Magic_and_Ancient_Secrets_of_12_Jyotirlingas_Har_Har_Mahadev_🕉_🔱_Mahakal_🌿 .ipynb
    ```
 
-4. Output `map.html` will be generated. Open it in a browser.
+4. Open it in a browser.
 
 ---
 
