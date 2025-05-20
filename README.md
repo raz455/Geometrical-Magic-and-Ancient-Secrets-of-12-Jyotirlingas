@@ -24,6 +24,7 @@ This project is a Python-based interactive map visualizing the **12 sacred Jyoti
 
 *  Gratitude also to the open-source contributors of the [GeoHacker India Map Project](https://github.com/geohacker/india/tree/master/state) for providing the geospatial data that made this visualization possible.
 
+🎥 [Watch Spiral Jyotirlinga Video](https://drive.google.com/file/d/16qhQ9tlxHTheNA1TqLl7YDH54UUKcCMk/view?usp=sharing)
 
 ---
 
